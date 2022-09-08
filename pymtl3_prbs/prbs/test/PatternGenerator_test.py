@@ -13,7 +13,7 @@ import pytest
 from pymtl3 import *
 
 from ..PatternGenerator import PatternGenerator
-from ...lfsr.LfsrFL import LfsrFL
+from ...lfsr import LfsrFL
 from ...utils import gen_bitmap_std, gen_bitmap_ahd
 
 #-------------------------------------------------------------------------

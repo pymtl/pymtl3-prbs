@@ -12,7 +12,7 @@ Author : Yanghui Ou
 
 from pymtl3 import *
 
-from ..lfsr.LfsrGeneric import LfsrGeneric
+from ..lfsr import LfsrGeneric
 
 #-------------------------------------------------------------------------
 # PatternGenerator

@@ -14,7 +14,7 @@ from pymtl3 import *
 
 from ..LfsrGeneric import LfsrGeneric
 from ..LfsrFL import LfsrFL
-from ..utils import gen_bitmap_std, gen_bitmap_ahd
+from ...utils import gen_bitmap_std, gen_bitmap_ahd
 
 #-------------------------------------------------------------------------
 # Local parameters

@@ -16,7 +16,7 @@ Author : Yanghui Ou
 from pymtl3 import *
 from pymtl3.stdlib.basic_rtl import Reg
 
-from ..LfsrGeneric import LfsrGeneric
+from ..lfsr import LfsrGeneric
 
 #-------------------------------------------------------------------------
 # PatternVerifier

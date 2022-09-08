@@ -14,7 +14,7 @@ from pymtl3 import *
 
 from ..PatternVerifier import PatternVerifier
 from ..PatternGenerator import PatternGenerator
-from ...lfsr.LfsrFL  import LfsrFL
+from ...lfsr  import LfsrFL
 from ...utils import gen_bitmap_std, gen_bitmap_ahd
 
 #-------------------------------------------------------------------------
